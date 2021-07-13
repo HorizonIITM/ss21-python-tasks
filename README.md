@@ -1,5 +1,5 @@
 # Task for Python Day 1
-#I cloned and forked
+# I cloned and forked this
 ### Deadline: 11/07/2021 12:00 PM
 
 ## Rules
